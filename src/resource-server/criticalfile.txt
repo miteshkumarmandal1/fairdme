@@ -1,0 +1,391 @@
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 5
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 5
+[ENTER] NodeID: Node1, IP: 10.50.4.190, Clock: 9
+[EXIT]  NodeID: Node1, IP: 10.50.4.190, Clock: 9
+[ENTER] NodeID: Node1, IP: 10.50.4.190, Clock: 14
+[EXIT]  NodeID: Node1, IP: 10.50.4.190, Clock: 14
+[ENTER] NodeID: Node1, IP: 10.50.4.190, Clock: 19
+[EXIT]  NodeID: Node1, IP: 10.50.4.190, Clock: 19
+[ENTER] NodeID: Node1, IP: 10.50.4.190, Clock: 5
+[EXIT]  NodeID: Node1, IP: 10.50.4.190, Clock: 5
+[ENTER] NodeID: Node1, IP: 10.50.4.190, Clock: 10
+[EXIT]  NodeID: Node1, IP: 10.50.4.190, Clock: 10
+[ENTER] NodeID: Node1, IP: 10.50.4.190, Clock: 15
+[EXIT]  NodeID: Node1, IP: 10.50.4.190, Clock: 15
+[ENTER] NodeID: Node1, IP: 10.50.4.190, Clock: 20
+[EXIT]  NodeID: Node1, IP: 10.50.4.190, Clock: 20
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 24
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 24
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 29
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 29
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 4
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 4
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 8
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 8
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 10
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 10
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 12
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 12
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 16
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 16
+[ENTER] NodeID: Node1, IP: 10.50.4.190, Clock: 4
+[EXIT]  NodeID: Node1, IP: 10.50.4.190, Clock: 4
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 6
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 6
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 10
+[EXIT]  
+NodeID: Node0, IP: 10.50.7.227, Clock: 10
+[ENTER] NodeID: Node1, IP: 10.50.4.190, Clock: 12
+[EXIT]  
+NodeID: Node1, IP: 10.50.4.190, Clock: 12
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 15
+[EXIT]  
+NodeID: Node0, IP: 10.50.7.227, Clock: 15
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 19
+[EXIT]  
+NodeID: Node0, IP: 10.50.7.227, Clock: 19
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 23
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 23
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 27
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 27
+
+[ENTER] NodeID: Node1, IP: 10.50.4.190, Clock: 30
+[ENTER] NodeID: Node1, IP: 10.50.4.190, Clock: 31
+[EXIT]  NodeID: Node1, IP: 10.50.4.190, Clock: 30
+
+[EXIT]  NodeID: Node1, IP: 10.50.4.190, Clock: 31
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 34
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 34
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 38
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 38
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 42
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 42
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 46
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 46
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 50
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 50
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 50
+
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 50
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 6
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 6
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 10
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 10
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 14
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 14
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 18
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 18
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 18
+
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 18
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 20
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 20
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 24
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 24
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 28
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 28
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 32
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 32
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 36
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 36
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 40
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 40
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 44
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 44
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 1
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 1
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 2
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 2
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 3
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 3
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 4
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 4
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 5
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 5
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 6
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 6
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 7
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 7
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 8
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 8
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 9
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 9
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 10
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 10
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 1
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 1
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 1
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 1
+
+[ENTER] NodeID: Node0, IP: 10.50.7.227, Clock: 2
+[EXIT]  NodeID: Node0, IP: 10.50.7.227, Clock: 2
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 4
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 4
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 4
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 4
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 4
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 4
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 4
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 4
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 8
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 8
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 10
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 10
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 2
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 2
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 4
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 4
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 6
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 6
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 8
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 8
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 10
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 10
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 12
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 12
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 2
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 2
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 4
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 4
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 8
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 8
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 11
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 11
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 13
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 13
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 4
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 4
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 6
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 6
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 5
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 5
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 4
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 4
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 4
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 4
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 4
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 4
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 4
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 4
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 4
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 4
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 6
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 6
+
+[ENTER] NodeID: Node2, IP: 10.100.54.208, Clock: 8
+[EXIT]  NodeID: Node2, IP: 10.100.54.208, Clock: 8
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 10
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 10
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 18
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 18
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 23
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 23
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 27
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 27
+
+[ENTER] NodeID: Node2, IP: 10.100.54.208, Clock: 29
+[EXIT]  NodeID: Node2, IP: 10.100.54.208, Clock: 29
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 31
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 31
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 36
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 36
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 39
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 39
+
+[ENTER] NodeID: Node2, IP: 10.100.54.208, Clock: 41
+[EXIT]  NodeID: Node2, IP: 10.100.54.208, Clock: 41
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 44
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 44
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 49
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 49
+
+[ENTER] NodeID: Node2, IP: 10.100.54.208, Clock: 53
+[EXIT]  NodeID: Node2, IP: 10.100.54.208, Clock: 53
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 56
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 56
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 61
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 61
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 65
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 65
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 68
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 68
+
+[ENTER] NodeID: Node2, IP: 10.100.54.208, Clock: 72
+[EXIT]  NodeID: Node2, IP: 10.100.54.208, Clock: 72
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 76
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 76
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 81
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 81
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 84
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 84
+
+[ENTER] NodeID: Node2, IP: 10.100.54.208, Clock: 89
+[EXIT]  NodeID: Node2, IP: 10.100.54.208, Clock: 89
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 93
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 93
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 1
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 1
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 1
+
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 1
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 1
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 1
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 10
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 10
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 11
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 11
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 4
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 4
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 6
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 6
+
+[ENTER] NodeID: Node2, IP: 10.100.54.208, Clock: 8
+[EXIT]  NodeID: Node2, IP: 10.100.54.208, Clock: 8
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 10
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 10
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 14
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 14
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 17
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 17
+
+[ENTER] NodeID: Node2, IP: 10.100.54.208, Clock: 23
+[EXIT]  NodeID: Node2, IP: 10.100.54.208, Clock: 23
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 25
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 25
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 27
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 27
+
+[ENTER] NodeID: Node2, IP: 10.100.54.208, Clock: 31
+[EXIT]  NodeID: Node2, IP: 10.100.54.208, Clock: 31
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 34
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 34
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 36
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 36
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 38
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 38
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 44
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 44
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 4
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 4
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 6
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 6
+
+[ENTER] NodeID: Node2, IP: 10.100.54.208, Clock: 8
+[EXIT]  NodeID: Node2, IP: 10.100.54.208, Clock: 8
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 10
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 10
+
+[ENTER] NodeID: Node0, IP: 10.53.37.140, Clock: 1
+[EXIT]  NodeID: Node0, IP: 10.53.37.140, Clock: 1
+
+[ENTER] NodeID: Node2, IP: 10.100.54.208, Clock: 7
+[EXIT]  NodeID: Node2, IP: 10.100.54.208, Clock: 7
+
+[ENTER] NodeID: Node3, IP: 10.100.53.8, Clock: 9
+[EXIT]  NodeID: Node3, IP: 10.100.53.8, Clock: 9
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 14
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 14
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 17
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 17
+
+[ENTER] NodeID: Node0, IP: 10.100.55.203, Clock: 22
+[EXIT]  NodeID: Node0, IP: 10.100.55.203, Clock: 22
+
+[ENTER] NodeID: Node2, IP: 10.100.54.208, Clock: 27
+[EXIT]  NodeID: Node2, IP: 10.100.54.208, Clock: 27
+
+[ENTER] NodeID: Node1, IP: 10.53.37.140, Clock: 31
+[EXIT]  NodeID: Node1, IP: 10.53.37.140, Clock: 31
+
